@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: Engine, Configuration: Debug x64 ------
+1>Game.cpp
+1>Engine.vcxproj -> E:\Chili tutorials begginerss\Poo Games\x64\Debug\Engine.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
